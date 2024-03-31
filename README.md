@@ -1,2 +1,2 @@
-# cherry-the-line-tracer
+# cherry-the-linetracer
 CCS project
